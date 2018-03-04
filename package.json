@@ -1,0 +1,19 @@
+{
+  "name": "@ferrobot/driver",
+  "version": "0.0.1",
+  "description": "Driver for controlling the FerroBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FerroBot"
+  ],
+  "author": "Lucas Zeer",
+  "license": "MIT",
+  "dependencies": {
+    "@micropede/client": "^0.0.28",
+    "johnny-five": "^0.14.1",
+    "lodash": "^4.17.5"
+  }
+}
