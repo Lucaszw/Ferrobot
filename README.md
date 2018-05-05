@@ -6,9 +6,9 @@
 </p>
 
 ## Demonstration Video:
-<a href="https://youtu.be/Wse2lJi29aE">
-  <img src="https://raw.githubusercontent.com/Lucaszw/FerroBot/master/docs/youtube.png" width="500"/>
+<a href="https://www.youtube.com/watch?v=j0DMCKYoySY">
+  <img src="https://github.com/Lucaszw/FerroBot/blob/master/docs/Screen%20Shot%202018-05-05%20at%2010.22.01%20AM.png" width="500"/>
 </a>
   
 
-Also checkout: https://www.youtube.com/watch?v=9im0WKN-eb8
+Also checkout: https://www.youtube.com/watch?v=W7XAcH6gUpQ
