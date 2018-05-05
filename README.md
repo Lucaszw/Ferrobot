@@ -2,7 +2,7 @@
 
 <p align="center" >
   <b>Digital Microfluidic Platform based on Ferrofluids and Electromagnets</b><br><br>
-  <img src="https://raw.githubusercontent.com/Lucaszw/FerroBot/master/docs/ferrobotV0.0.1.jpg" width="300"/><br><br>
+  <img src="https://github.com/Lucaszw/FerroBot/blob/master/docs/IMG_0766.JPG" width="500"/><br><br>
 </p>
 
 ## Demonstration Video:
